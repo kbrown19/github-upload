@@ -1,11 +1,3 @@
-"Title:","Diesel from the Retail Gasoline Prices Database"
-"SubTitle:","USA"
-"Time:","03/21/1994 - 02/20/2023"
-"Unit of Measure:","$/Gal"
-"Citation:","Energy Information Administration (2023-02-26). Retail Gasoline Prices: Diesel, 03/21/1994 - 02/20/2023. Data Planet? Statistical Datasets: A SAGE Publishing Resource. (Dataset). Dataset-ID:  004-004-013 doi:https://doi.org/10.6068/DP186ADC0B82835"
-"ColumnCount:",2
-"RowCount:",1510
-
 "Time","Diesel ($/Gal)"
 "03/21/1994",1.11
 "03/28/1994",1.11
