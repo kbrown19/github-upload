@@ -1,11 +1,3 @@
-"Title:","Regular Grade from the Retail Gasoline Prices Database"
-"SubTitle:","USA"
-"Time:","08/20/1990 - 02/20/2023"
-"Unit of Measure:","$/Gal"
-"Citation:","Energy Information Administration (2023-02-26). Retail Gasoline Prices: Regular Grade, 08/20/1990 - 02/20/2023. Data Planet? Statistical Datasets: A SAGE Publishing Resource. (Dataset). Dataset-ID:  004-004-004 doi:https://doi.org/10.6068/DP186ADE51C0441"
-"ColumnCount:",2
-"RowCount:",1691
-
 "Time","Regular Grade ($/Gal)"
 "08/20/1990",1.19
 "08/27/1990",1.25
